@@ -1,5 +1,5 @@
-
-
+Link to the pdf. 
+https://github.com/Kizaruborsalino/Bisection-and-Newton-Raphson-Method/blob/main/Bisection%20and%20Newton-Raphson%20method.pdf
 \documentclass{article}
 \usepackage{listings}
 
